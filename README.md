@@ -17,11 +17,7 @@ There is a test subdirectory in src that uses Junit for unit testing.
 git clone https://github.com/yashijain1998/java-maven.git
 ``` 
 ### 2. Run the program
-``` 
 To launch and debug Java code, hit F5 on your keyboard or select Run > Start Debugging from the menu. In the editor, you may also use the Run|Debug CodeLens option. 
-```
 
 ### 3. Unit testing
-```
 You can use maven workspace and right-click on the project name to select test, or you can use code lens or testing workspace for unit testing.
-```
